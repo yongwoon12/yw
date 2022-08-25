@@ -1,11 +1,12 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[2]:
+# In[4]:
 
 
 import streamlit as st
 import pandas as pd
+import numpy as np
 
 
 # In[3]:
